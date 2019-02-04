@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "parcel watch index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "moriyuu",
+  "license": "MIT",
   "dependencies": {
     "react": "^16.7.0",
     "styled-components": "^4.1.3"
