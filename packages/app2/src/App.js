@@ -4,7 +4,7 @@ import { Button } from "components";
 export default function App() {
   return (
     <div>
-      <h1>App</h1>
+      <h1>App2</h1>
       <Button>Button</Button>
     </div>
   );

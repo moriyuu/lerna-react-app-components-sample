@@ -1,10 +1,10 @@
 {
-  "name": "app",
+  "name": "app1",
   "version": "0.1.0",
   "description": "",
   "main": "src/index.js",
   "scripts": {
-    "dev": "parcel public/index.html"
+    "dev": "parcel public/index.html --port 2000"
   },
   "author": "moriyuu",
   "license": "MIT",

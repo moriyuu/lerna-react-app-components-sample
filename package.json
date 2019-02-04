@@ -4,7 +4,9 @@
   "description": "",
   "scripts": {
     "bootstrap": "lerna bootstrap",
-    "dev": "lerna run dev --parallel"
+    "dev": "lerna run dev --parallel",
+    "dev:app1": "lerna run dev --parallel --scope={app1,components}",
+    "dev:app2": "lerna run dev --parallel --scope={app2,components}"
   },
   "author": "moriyuu",
   "license": "MIT",
