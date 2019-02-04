@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
-    "dev": "parcel watch index.js"
+    "dev": "parcel watch src/index.js"
   },
   "author": "moriyuu",
   "license": "MIT",
